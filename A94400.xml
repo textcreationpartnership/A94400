@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the faithful servants of Jesus Christ, especially to such as labour in the word and doctrine, through England and Wales.</title>
+            <author>England and Wales. Commissioners for Approbation of Public Preachers.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94400</idno>
+            <idno type="STC">Wing T1333</idno>
+            <idno type="STC">Thomason E733_2</idno>
+            <idno type="STC">ESTC R206896</idno>
+            <idno type="EEBO-CITATION">99865990</idno>
+            <idno type="PROQUEST">99865990</idno>
+            <idno type="VID">118249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118249)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E733[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the faithful servants of Jesus Christ, especially to such as labour in the word and doctrine, through England and Wales.</title>
+                  <author>England and Wales. Commissioners for Approbation of Public Preachers.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for Ralph Smith, at the Bible in Cornhill, near the Royal Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A circular of the Commissioners for approbation of publick preachers, signed at end: Signed in the name, and at the request of the Commissioners for approbation of publick preachers, by Francis Rous. John Arrowsmith. William Goffe. Stephen Marshall.</note>
+                  <note>Annotation on Thomason copy: "Aprill 12th:-".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Preaching --  Early works to 1800.</term>
+               <term>Preaching --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118249:1" rendition="simple:additions"/>
+            <p>To all the FAITHFUL SERVANTS OF Jeſus Chriſt, Eſpecially to ſuch as labour in the WORD AND DOCTRINE, THROUGH ENGLAND AND WALES.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for <hi>Ralph Smith,</hi> at the Bible in <hi>Cornhill,</hi> near the <hi>Royal Exchange.</hi> 
+               <add>Aprill 12<hi rend="sup">th</hi>
+               </add> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:118249:2"/>
+            <pb n="1" facs="tcp:118249:2"/>
+            <head>To all the FAITHFUL SERVANTS OF Jeſus Chriſt, Eſpecially to ſuch as labour in the WORD and DOCTRINE, THROUGH ENGLAND AND WALES.</head>
+            <opener>
+               <salute>Dear Brethren,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here being nothing under Hea<g ref="char:EOLhyphen"/>ven of greater importance, then the preaching of the glorious Goſpel of <hi>Jeſus Chriſt,</hi> you can<g ref="char:EOLhyphen"/>not but be very ſenſible of what weight and concernment it is to take a right e<g ref="char:EOLhyphen"/>ſtimate of all that offer themſelves, and to paſſe a due approbation of ſuch only, as Chriſt himſelf would have admitted to that
+<pb n="2" facs="tcp:118249:3"/>great employment. A great part of which ſervice in this Nation, the <hi>Lord</hi> by his Provi<g ref="char:EOLhyphen"/>dence hath caſt upon us, and is by us under<g ref="char:EOLhyphen"/>taken, as with much fear and trembling, ſo with a deep ſenſe, that the effectual accom<g ref="char:EOLhyphen"/>pliſhment therof will much depend upon the Teſtimonials exhibited to us, concerning the holy and good Converſation of ſuch as ſeek for approbation from us. Wherfore conſider<g ref="char:EOLhyphen"/>ing how eaſily and frequently abuſes creep into buſineſſes of this nature, partly through the endeavours of thoſe who are ill-deſerv<g ref="char:EOLhyphen"/>ing, and partly through the non-attendance of others, who are better minded. For the prevention of any ſuch miſcarriage, we have thought it our duty, hereby humbly &amp; earneſtly to beſeech all the people of <hi>God</hi> throughout the Land, who ſhall ſend any <hi>Cer<g ref="char:EOLhyphen"/>tificate</hi> to us, that they would not take things upon the opinion and report of others, but (according to the good proviſion made in the <hi>Ordinance,</hi> deſigning us to this Service) to certifie their own perſonal knowledge and experience, ſo as neither any, whom <hi>God</hi> accepteth; may want the teſtimony of his ſervants, nor any be recommended by them whom he diſalloweth; leſt guilt be contract<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:118249:3"/>by you, to whoſe teſtimonials ſo much is referred, as that through careleſneſs or par<g ref="char:EOLhyphen"/>tiality therein, very unworthy men may un<g ref="char:EOLhyphen"/>awares be admitted, to the diſhonour of <hi>God,</hi> the prejudice of his <hi>Cburch,</hi> and the utter fruſtrating of the pious intentions of our <hi>Governours;</hi> and we alſo be accounted blame-worthy, if through your miſinforma<g ref="char:EOLhyphen"/>tion, way being made for our miſtakes, we ſhould at any time act amiſſe. This we are, and ſhall be more liable to, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reaſon of the difficulty of our making diſcovery in a ſhort time of ſeveral mens graces and gifts, in ſo full and ample a manner as would be deſired for juſt ſatisfaction, without the faithful help of ſuch as having been obſervers of them, and converſant with them, do more fully know, not only the tenour of their do<g ref="char:EOLhyphen"/>ctrine, but the conſtant courſe of their lives. It being a much more eaſie thing to be able to deſcribe what a godly man ſhould be, then to be one indeed. Nor may we doubt, but there are ſome men, who having firſt willing<g ref="char:EOLhyphen"/>ly deceived themſelvs by a falſe apprehenſion and perſwaſion of their own condition and eſtate in grace, will think it eaſie to deceive us, by giving a falſe account of that condi<g ref="char:EOLhyphen"/>tion.
+<pb n="4" facs="tcp:118249:4"/>But as ſuch ſhall do well to conſider, that he who trieth the Spirit is not mocked, neither can any thing be hid from his eyes, and that they muſt undergo another kinde of <hi>Teſt</hi> then this ſlender ſcrutiny of ours, when the ſecret of all hearts ſhall be laid open, and brought to light. So our <hi>Brethren</hi> may likewiſe pleaſe to conſider what opportuni<g ref="char:EOLhyphen"/>ty is put into their hand by this <hi>Addreſſe</hi> made unto them for the avoiding of ſuch miſtakes, and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e inconveniences which may follow upon them through their neglect; beſides the blot which will deſervedly ſtick to them, not only for the preſent, but with poſterity and ſucceeding times, foraſmuch as the <hi>Certificates</hi> now exhibited will appear upon Record. For the prevention whereof, we humbly conceive and hope, that this friendly and <hi>brotherly intimation</hi> will be accounted ſeaſonable, and by the bleſſing of God, be found uſeful for the ſucceſſeful car<g ref="char:EOLhyphen"/>rying on that work which we have in hand. And therefore, <hi>Dear friends, and much belo<g ref="char:EOLhyphen"/>ved in the Lord,</hi> give us leave again, earneſt<g ref="char:EOLhyphen"/>ly to beſeech you in the bowels of <hi>Jeſus Chriſt,</hi> as you tender the Honour of the great <hi>God</hi> himſelf, whoſe ſervants we all
+<pb n="5" facs="tcp:118249:4"/>are, the precious ſoules of his people, pur<g ref="char:EOLhyphen"/>chaſed by the blood of his <hi>Son,</hi> the advance<g ref="char:EOLhyphen"/>ment and propagation of his Goſpel through all the parts of this Land and Nation, wher<g ref="char:EOLhyphen"/>unto we belong, ſo to lend us the joynt aſ<g ref="char:EOLhyphen"/>ſiſtance, both of your fervent prayers and due infor<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions, that hereby the work may be carried on more proſperouſly, and we more encouraged to attend it.</p>
+            <closer>
+               <signed>Signed in the Name, and at the Requeſt of the Commiſſioners for Approbation of publick Preachers, by
+<list>
+                     <item>FRANCIS RO<g ref="char:V">Ʋ</g>S.</item>
+                     <item>JOHN ARROWSMITH.</item>
+                     <item>WILLIAM GOFFE.</item>
+                     <item>STEPHEN MARSHALL.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
